@@ -1,6 +1,6 @@
 - 👋 Hi, I’m K.Lohith kumar / @low-he-th
 - 👀 I’m interested in doing a java developer job  where i can showcase my skills.
-- 🌱 I’m currently learning java full stack as a intern at Kodnest and and i have knowledge on HTML ,CSS .
+- 🌱 I’m currently learning java full stack as a intern at Kodnest and and i have knowledge on HTML ,CSS,SQL .
 - 💞️ I’m completed my gradution in 2023 may.
 - 📫 contact me through  mail-lohith584101@gmail.com
 - my phone number _9742727979.
