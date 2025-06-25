@@ -1,10 +1,8 @@
--Hi! I'm a passionate developer working as an Associate Software Engineer.
--🔧 Tech Stack: Groovy, Grails, Java, MongoDB, SQL.
--💡 I enjoy building smart city solutions, real-time web apps, and clean backend systems.
--🚀 Always learning and exploring better ways to write scalable and efficient code.
+### 👨‍💻 About Me
 
+Hi! I'm a passionate developer working as an Associate Software Engineer for the past 1.5 years.
 
-<!---
-low-he-th/low-he-th is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔧 Tech Stack: **Groovy**, **Grails**, **Java**
+- 🗄️ Databases: **MongoDB**, **SQL**
+- 💡 Interests: Smart city solutions, real-time web apps, scalable backend systems
+- 🚀 Always learning and improving my development workflow
